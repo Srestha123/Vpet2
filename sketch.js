@@ -2,8 +2,8 @@
 var database,dog2,foodS,foodStock,dog,happyDog,tm,hr,dn;
 function preload()
 {
- dog1=loadImage("images/dogImg.png");
- dog2=loadImage("images/dogImg1.png");
+ dog1=loadImage("dogImg.png");
+ dog2=loadImage("dogImg1.png");
 }
 function setup() {
   createCanvas(500, 500);
